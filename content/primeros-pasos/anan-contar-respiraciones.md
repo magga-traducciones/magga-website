@@ -3,7 +3,7 @@ title:  "Método del conteo de respiraciones"
 author: "Ajahn Anan"
 ---
 
-> Extracto del texto [Desarrollando Samādhi](/biblioteca/ajahn-anan/desarrollando-samadhi/).  
+> Extracto del texto [Desarrollando Samādhi](/biblioteca/ajahn-anan/textos/desarrollando-samadhi/).  
 
 Cuando estemos sentados meditando adoptamos una postura que se sienta bien, una postura balanceada y relajada. No deberíamos inclinarnos ni demasiado hacia la izquierda ni demasiado hacia la derecha, ni demasiado hacia delante ni demasiado hacia atrás. La cabeza no debería estar ni elevada ni colgando y los ojos deberían estar cerrados solo lo suficiente para no sentirnos tensos y nerviosos. Entonces centramos la atención sobre la sensación de respirar en tres puntos: la punta de la nariz, el corazón y el ombligo. Centramos la atención, primero, siguiendo la inspiración mientras pasa por estos tres puntos —comenzando en la nariz, descendiendo a través del corazón y terminando en el ombligo— y luego, en segundo lugar, la centramos en seguir la espiración en orden inverso —comenzando en el ombligo, subiendo a través del corazón y terminando en la punta de la nariz. Estas formas preliminares de centrar la atención pueden llamarse ‘seguir la respiración en tres puntos’.
 

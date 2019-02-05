@@ -17,6 +17,4 @@ Para darse de baja enviar un correo solicitándolo a la dirección contacto@magg
 ---  
 
 
-Para suscribirse via RSS: 
-
-<a href="/index.xml" class="btn btn-default">Suscribirse</a>
+Para suscribirse via RSS:  <span class="autor"><a href="/index.xml">Suscribirse</a></span>

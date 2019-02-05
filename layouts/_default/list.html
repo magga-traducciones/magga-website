@@ -4,11 +4,12 @@
   <h1><span class="title">{{ .Title | markdownify }}</span></h1>
   {{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
 </div>
+<hr>
 
 {{ .Content }}
 
+
 {{ if not (eq .Title "magga") }}
-<hr>
 
   {{if not (eq .Title "Primeros pasos") }}
 

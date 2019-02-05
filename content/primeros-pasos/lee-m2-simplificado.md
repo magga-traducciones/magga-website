@@ -1,8 +1,9 @@
 ---
-title: "Barrido corporal (Método 2 Ajahn Lee)"
+title: "Barrido corporal"
+Author: "Ajahn Lee"
 ---
 
-Un método sencillo de barrido corporal muy útil para relajar e ir soltando tensiones. Se        corresponden con los puntos 2 y 3 del [Método 2](/biblioteca/ajahn-lee/manteniendo-la-respiracion-en-la-mente/05-metodo-2/) de Ajahn Lee.
+Un método sencillo de barrido corporal muy útil para relajar e ir soltando tensiones. Se        corresponden con los puntos 2 y 3 del [Método 2](/biblioteca/ajahn-lee/libros/manteniendo-la-respiracion-en-la-mente/05-metodo-2/) de Ajahn Lee.
 
 Consiste en poner la atención en la respiración para a continuación llevar esa atención a lo largo del cuerpo con un barrido que va desde la base del craneo primero por la columna hasta el sacro, luego hacia las piernas, luego los brazos, y luego la parte frontal del cuerpo.
 

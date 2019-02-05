@@ -362,6 +362,13 @@ body {
   padding: 1em;
   line-height: 1.5em;
 }
+h1 {
+  line-height: 1.1em;
+}
+
+h2 {
+  line-height: 1.2em;
+}
 
 .autor a {
   display: inline-block;
