@@ -1,0 +1,54 @@
+{{ partial "header.html" . }}
+
+<div class="article-meta">
+  <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+  {{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+</div>
+
+{{ .Content }}
+
+{{ if not (eq .Title "magga") }}
+<hr>
+
+  {{if not (eq .Title "Primeros pasos") }}
+
+    {{ range .Pages }}                {{/* Para secciones "texto" y contenido de libros */}}
+      <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+
+    {{ range .Sections }}
+      {{if (eq .Title "Textos") }}       {{/* Para páginas de autor */}}            
+        <h2>Textos</h2>
+        {{ range .Pages }}
+        
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        
+        {{ end }}<br>
+      {{ end }}
+
+      {{if (eq .Title "Libros") }}        {{/* Para páginas de autor */}}
+        <h2>Libros</h2>
+        {{ range .Sections }}
+        
+          <a href="{{ .Permalink }}">{{ .Title }}</a><br>
+        
+        {{ end }}
+      {{ end }}
+      {{if (eq .Parent.Title "Biblioteca") }}     {{/* Para Biblioteca */}}
+        <span class="autor"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+        {{ range .Sections }}
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}<br>
+      {{ end }}  
+                                                    {{/* Para listado de libros en Secciones "libros" */}}
+      {{if not (or (eq .Title "Libros") (eq .Title "Textos") (eq .Parent.Title "Biblioteca"))}}
+        <span class="libro"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+      {{ end }}
+    {{end}}
+  {{end}}
+{{end}}
+
+
+{{ partial "footer.html" . }}

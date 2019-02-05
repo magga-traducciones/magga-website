@@ -1,0 +1,37 @@
+baseurl = "/"
+languageCode = "es-es"
+title = "magga"
+theme = "hugo-xmin"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "biblioteca"
+    url = "/biblioteca/"
+    weight = 2
+[[menu.main]]
+    name = "primeros pasos"
+    url = "/primeros-pasos/"
+    weight = 3
+[[menu.main]]
+    name = "magga traducciones"
+    url = "/about/"
+    weight = 4
+[[menu.main]]
+    name = "suscribirse"
+    url = "/suscribirse/"
+    weight = 5
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 -- 2018 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
