@@ -1,4 +1,5 @@
-baseurl = "/"
+baseurl = "https://magga.es"
+# baseurl = "/"
 languageCode = "es-es"
 title = "magga"
 theme = "hugo-xmin"
