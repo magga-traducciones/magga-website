@@ -2,8 +2,16 @@
 title: "magga"
 ---
 
-En este sitio están disponibles las traducciones realizadas por el grupo *magga traducciones* sobre budismo, meditación y otros temas relacionados con el desarrollo interior, cultivo mental, o como queramos llamarlo.  
+Bienvenido a *magga*,
 
-Puedes acceder al contenido navegando por el menu de la izquierda.  
+Navegando por la página podrás leer textos sobre budismo, meditación, y temas afines. En la sección [primeros pasos](/primeros-pasos) podrás informarte sobre qué es el budismo y encontrarás técnicas sencillas para iniciarte en la meditación. Para profundizar, en la [biblioteca](/biblioteca) están las traducciones completas de libros y textos relacionados.  
 
-Este sitio está en proceso de migración y reconstrucción. Cualquier problema o error se puede reportar a la dirección de correo <contacto@magga.es> o por mensaje privado en [twitter](http://twitter.com/magga_es).  
+Para saber más sobre la filosofía del sitio puedes ir a [magga traducciones](/magga-traducciones).  
+
+Si quieres recibir las actualizaciones por correo o por RSS puedes hacerlo en [Suscribirse](/suscribirse).  
+
+Cualquier problema o error se puede reportar a la dirección de correo <contacto@magga.es> o por mensaje privado en [twitter](http://twitter.com/magga_es).  
+
+Disfruta del camino.
+
+
