@@ -1,6 +1,6 @@
 ---
 author: "Thanissaro Bhikkhu"
-title: "Dhammacakkappavattana Sutta"
+title: "Dhammacakkappavattana Sutta SN 56.11"
 source: "http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html"
 license: "BY-NC"
 publisher: dhammamagga
