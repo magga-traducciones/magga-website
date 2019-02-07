@@ -6,7 +6,7 @@ source: "https://forestsangha.org/teachings/books/the-four-noble-truths?language
 license: "BY-NC-ND"
 publisher: "dhammamagga"
 date: 2019-01-01
-pubyear: 2009
+pubyear: 2009-2019
 weight: 4
 draft: false
 ---
