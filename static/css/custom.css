@@ -19,7 +19,7 @@ html {
 /**
  * Remove the margin in all browsers.
  */
- 
+
 body {
   margin: 0;
 }
@@ -370,14 +370,38 @@ h2 {
   line-height: 1.2em;
 }
 
-.autor a {
+.autor a, .libro a {
   display: inline-block;
   text-decoration: none;
   background: #eee;
   padding: 1px;
   border-radius: 5px;
 }
-.libro a {
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.navegacion {
+margin: auto;
+text-align: stretch;
+width: 100%;
+}
+
+.nav-anterior a {
+  float: left;
+  display: inline-block;
+  text-decoration: none;
+  background: #eee;
+  padding: 1px;
+  border-radius: 5px;
+}
+
+.nav-siguiente a {
+  float: right;
   display: inline-block;
   text-decoration: none;
   background: #eee;

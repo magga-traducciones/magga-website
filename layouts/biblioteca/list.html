@@ -20,38 +20,32 @@
     {{ end }}
 
     {{ range .Sections }}
-      {{if (eq .Title "Textos") }}       {{/* Para páginas de autor (no tienen .Pages) */}}            
+      {{if (eq .Title "Textos") }}       {{/* Para páginas de autor (no tienen .Pages) */}}
         <h2>Textos</h2>
         {{ range .Pages }}
-        
+
           <a href="{{ .Permalink }}">{{ .Title }}</a>
-        
+
         {{ end }}<br>
       {{ end }}
 
       {{if (eq .Title "Libros") }}        {{/* Para páginas de autor (no tienen .Pages) */}}
         <h2>Libros</h2>
         {{ range .Sections }}
-        
+
           <a href="{{ .Permalink }}">{{ .Title }}</a><br>
-        
+
         {{ end }}
       {{ end }}
-      {{if (eq .Parent.Title "Biblioteca") }}     {{/* Para Biblioteca */}}
+      {{if (eq .Parent.Title "Biblioteca") }}     {{/* Para /Biblioteca */}}
         <span class="autor"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
         {{ range .Sections }}
           <a href="{{ .Permalink }}">{{ .Title }}</a>
         {{ end }}<br>
-      {{ end }}  
+      {{ end }}
                                                     {{/* Para listado de libros en Secciones "libros" */}}
       {{if not (or (eq .Title "Libros") (eq .Title "Textos") (eq .Parent.Title "Biblioteca"))}}
-        {{if not (eq .Parent.Title "Libros") }}     {{/* Para libros que contienen directorios */}}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-        {{ else }}
         <span class="libro"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
-        {{ end }}
       {{ end }}
     {{end}}
   {{end}}
