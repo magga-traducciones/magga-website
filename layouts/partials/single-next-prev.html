@@ -1,0 +1,21 @@
+<br>
+<div class="navegacion">
+
+{{ if (eq .Parent.Title "Textos")}}
+  {{ if .NextInSection }}
+    <span class="nav-anterior"><a href="{{.NextInSection.Permalink}}"><- Texto anterior - {{.NextInSection.Title}}</a></span>
+  {{ end }}
+  {{ if .PrevInSection }}
+    <span class="nav-siguiente"> <a href="{{.PrevInSection.Permalink}}">Texto siguiente - {{.PrevInSection.Title}} -></a></span>
+  {{ end }}
+{{ else }}
+  {{ if .NextInSection }}
+    <span class="nav-anterior"><a href="{{.NextInSection.Permalink}}"><- {{.NextInSection.Title}}</a></span>
+  {{ end }}
+  {{ if .PrevInSection }}
+    <span class="nav-siguiente"> <a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}} -></a></span>
+  {{ end }}
+{{ end }}
+
+</div>
+<br>
