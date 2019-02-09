@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "es-es"
 title = "magga"
 theme = "hugo-xmin"
-# googleAnalytics = "UA-133551776-1"
+googleAnalytics = "UA-133551776-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
@@ -25,7 +25,7 @@ footnotereturnlinkcontents = "↩"
     weight = 3
 [[menu.main]]
     name = "magga traducciones"
-    url = "/about/"
+    url = "/magga-traducciones/"
     weight = 4
 [[menu.main]]
     name = "suscribirse"
@@ -33,5 +33,5 @@ footnotereturnlinkcontents = "↩"
     weight = 5
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = ""
     footer = "&copy; magga traducciones 2008 -- 2019 | [Twitter](https://twitter.com/magga_es)"

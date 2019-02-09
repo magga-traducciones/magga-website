@@ -1,5 +1,5 @@
 ---
-author: ""
+author: "Ajahn Buddhadasa"
 title: "Extractos sobre qué es el budismo"
 source: "https://www.suanmokkh.org/"
 license: "Copyright © Suan Mokkh"
