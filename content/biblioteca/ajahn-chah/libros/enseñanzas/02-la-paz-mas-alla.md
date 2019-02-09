@@ -1,6 +1,6 @@
 ---
 author: "Ajahn Chah"
-title: "La Paz Mas Allá..."
+title: "La Paz Mas Allá"
 booktitle: "Las Enseñanzas de Ajahn Chah"
 source: "https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English"
 license: "Copyright © 2011 Harnham Buddhist Monastery Trust"
@@ -10,6 +10,7 @@ pubyear: 2019
 weight: 2
 draft: false
 ---
+
 > *Una versión condensada de una charla dada al consejero jefe de Tailandia, Don Sanya Dharmasakti, en Wat Nong Pah Pong en 1978.*  
 
 ---  
