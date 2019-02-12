@@ -16,7 +16,7 @@ draft: false
 
 A. X. 176  
 
-I. He aquí que uno evita mentir y se abstiene de ello. Dice la verdad, está comprometido con la verdad, es digno de confianza, no engaña a los hombres. Si estando en una reunión, entre personas, entre parientes, en una asociación, o en la corte del rey, se le llama y pregunta como testigo para decir lo que sabe, responde, si no sabe nada: 'no sé nada', y si lo sabe responde: 'Lo sé'; si no ha visto nada responde: 'no he visto nada', y si lo ha visto responde: 'lo he visto'. Así nunca dice una mentira a propósito, ni para beneficio suyo, ni para beneficio de otra persona, ni para obtener ningún tipo de ventaja.  
+I. He aquí que uno evita mentir y se abstiene de ello. Dice la verdad, está comprometido con la verdad, es digno de confianza, no engaña a los hombres. Si estando en una reunión, entre personas, entre familiares, en una asociación, o en la corte del rey, se le llama y pregunta como testigo para decir lo que sabe, responde, si no sabe nada: 'no sé nada', y si lo sabe responde: 'Lo sé'; si no ha visto nada responde: 'no he visto nada', y si lo ha visto responde: 'lo he visto'. Así nunca dice una mentira a propósito, ni para beneficio suyo, ni para beneficio de otra persona, ni para obtener ningún tipo de ventaja.  
 
 ## Abstenerse de contar chismes  
 
