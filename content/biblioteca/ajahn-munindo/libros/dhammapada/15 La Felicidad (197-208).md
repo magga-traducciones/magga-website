@@ -50,7 +50,7 @@ realiza la liberación, la mayor alegría.
 204  
 Una mente sana es la mayor ganancia.  
 El contentamiento es la mayor riqueza.  
-Ser digno de confianza es el mejor de los parientes.  
+Ser digno de confianza es el mejor de los familiares.  
 La libertad incondicionada es la más alta dicha.  
 
 205  
