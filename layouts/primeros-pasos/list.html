@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+<div class="article-meta">
+    {{ with .Params.author }}<h1 class="author">{{ . }}</h1>{{ end }}
+    <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+</div>
+<hr>
+{{ .Content }}
+
+{{ partial "footer.html" . }}

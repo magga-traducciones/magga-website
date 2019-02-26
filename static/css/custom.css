@@ -370,6 +370,12 @@ h2 {
   line-height: 1.2em;
 }
 
+blockquote {
+  font-style: italic;
+  background: #ffffff;
+  padding: 3px 1em 3px;
+}
+
 .autor a, .libro a {
   display: inline-block;
   text-decoration: none;
@@ -407,4 +413,21 @@ width: 100%;
   background: #eee;
   padding: 1px;
   border-radius: 5px;
+}
+
+.video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#TableOfContents {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#TableOfContents ul {
+  list-style: none ;
+  margin: 0;
 }

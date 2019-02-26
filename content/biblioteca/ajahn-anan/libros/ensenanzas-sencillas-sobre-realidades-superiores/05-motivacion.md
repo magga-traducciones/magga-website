@@ -11,16 +11,16 @@ weight: 5
 draft: false
 ---
 > "*La gente debería pensar en como serían sus vidas si no meditasen. ¿Cómo serían sus corazones? ¿Y qué habrían desarrollado en sus corazones para llevarse a la siguiente vida? Porque la siguiente vida es solo tan buena como la hagamos en esta.  
-> Si no aprovechas tu oportunidad para meditar en esta vida, ¿Por qué deberías esperar tener la misma oportunidad en la siguiente? Puede que no consigas otra oportunidad tan buena como esta otra vez.*"  
+> Si no aprovechas tu oportunidad para meditar en esta vida, ¿Por qué deberías esperar tener la misma oportunidad en la siguiente? Puede que no vuelvas a conseguir otra oportunidad tan buena como esta.*"  
 > **Ajahn Paññavadho**  
 
 ---
 
 # 23. Buscando algo real  
 
-Incluso si buscamos todos los placeres y comodidades materiales que el mundo tiene para ofrecer, un día tendremos que dejarlo todo atrás. Cuando contemplamos realmente esto, podemos ver con claridad que estas cosas que buscamos no tienen una esencia real duradera. La motivación para practicar viene de buscar algo que es real y duradero. Esto es la iluminación, nibbana. Es una felicidad invariable que nunca muere, el perfecto lugar de paz.  
+Incluso si andamos buscamos todos los placeres y comodidades materiales que el mundo nos ofrece, un día tendremos que dejarlo todo atrás. Cuando contemplamos realmente esto, podemos ver con claridad que estas cosas que buscamos no tienen una esencia real duradera. La motivación para practicar viene de buscar algo que es real y duradero. Esto es la iluminación, nibbana. Es una felicidad invariable que nunca muere, el perfecto lugar de paz.  
 
-Es natural cuando empecemos a practicar que haya incertezas y dudas sobre algunos aspectos de las enseñanzas. Pero lo que deberíamos hacer es mantener una mente abierta y seguir practicando. No tenemos que creerlo por completo o rechazarlo por completo. Aprendemos a interiorizar las enseñanzas y desarrollar nuestro propia comprensión por medio de la práctica. Al final este es el lugar donde podemos entender estas realidades, en nuestra propia mente.  
+Es natural cuando empezamos a practicar que haya incertidumbre y dudas sobre determinados aspectos de las enseñanzas. Pero lo que deberíamos hacer es mantener una mente abierta y seguir practicando. No tenemos que creerlo por completo o rechazarlo por completo. Aprendemos a interiorizar las enseñanzas y desarrollar nuestro propia comprensión por medio de la práctica. Al final este es el lugar donde podemos entender estas realidades, en nuestra propia mente.  
 
 ## 24. Una sensación de separación  
 
