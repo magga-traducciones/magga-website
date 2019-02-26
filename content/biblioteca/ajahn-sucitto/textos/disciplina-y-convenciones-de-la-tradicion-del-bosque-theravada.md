@@ -17,7 +17,7 @@ draft: false
 
 2: Esta guía se refiere a la forma de entrenamiento según se aplica en los monasterios afiliados de la tradición tailandesa del bosque en el linaje de Ajahn Chah. Aunque la mayoría de los monásticos Theravada no tendrían nada que objetar a estos estándares, en algunos casos puede haber diferencias menores en la interpretación y aplicación de las reglas.  
 
-## **Introducción**  
+## Introducción  
 
 Esta guía tiene como objetivo servir de introducción a algunos aspectos la disciplina monástica para aquellos laicos que están interesados en comprender algo del trasfondo de las reglas y convenciones que sirven de estructura a la forma de vida de los monjes y monjas de esta tradición. Se espera que estas notas sean de ayuda para profundizar más en la relación de apoyo entre los miembros del Sangha y los practicantes laicos.  
 
@@ -31,13 +31,13 @@ Muchas de las reglas del Vinaya fueron creadas específicamente para evitar ofen
 
 Mientras que los samanas se benefician de la compañía de practicantes laicos dedicados y de estar liberados de la necesidad de mantenerse por ellos mismos materialmente, los laicos se benefician de la presencia de renunciantes comprometidos, de sus enseñanzas y su amistad. La relación tiene un aspecto ritual establecido en las convenciones del Vinaya, y cuando uno se acerca a ellas con sabiduría y compasión, se vuelven un espacio en el que puede surgir una mayor consciencia.  
 
-## **Proporcionar los recursos de apoyo**  
+## Proporcionar los recursos de apoyo  
 
 El Vinaya tal como el Buddha lo estableció define, es sus reglas más prácticas, la condición de un monástico como mendicante. No tener medios de sustento es una recurso muy práctico para entender el instinto de buscar seguridad; y además, la necesidad de buscar la caridad da al monástico una fuente de contemplación sobre qué cosas básicas son realmente necesarias –a saber, los cuatro necesidades.  
 
 Estas cuatro necesidades –comida, ropa, refugio y medicinas- son lo que los laicos pueden ofrecer como caso práctico de expresión de generosidad, aprecio o fe por pertenecer a la comunidad budista. Los miembros del Sangha responden de distintas formas, ayudando a propagar la buena voluntad y haciendo disponibles las enseñanzas del Buddha a aquellos que deseen escuchar.  
 
-## **Las cuatro necesidades**  
+## Las cuatro necesidades  
 
 **(i) Comida**  
 
@@ -109,11 +109,11 @@ Para las siladharas todas las medicinas se consideran permitidas siempre.
 
 Las medicinas que no se consumen oralmente, como cremas, aceites de masaje, gotas para los oídos o los ojos, etc., también pueden ser útiles. Estas no tienen que ofrecerse formalmente en las manos igual que se hace con la comida o las medicinas consumibles.  
 
-## **Otras necesidades**  
+## Otras necesidades  
 
 El Buddha también permitió a los monásticos hacer uso de otras necesidades menores, como agujas, una cuchilla, etc. En los tiempos modernos se puede incluir un bolígrafo, un reloj, una linterna, etc. Todas ellas tienen que ser sencillas, estando expresamente prohibidos los objetos costosos o lujosos. Las necesidades pueden ser propiedad de la comunidad monástica, especialmente cosas grandes como muebles, equipamiento electrónico, etc.  
 
-## **Ofrecer una invitación (Pavarana)**  
+## Ofrecer una invitación (Pavarana)  
 
 Los principios de mendicidad prohíben a los samanas pedir nada, a menos que estén enfermos, sin haber recibido una invitación previa. (Dos excepciones: Los samanas siempre pueden pedir agua y pueden hacer otras peticiones a los miembros de la familia). Así que, como se señala anteriormente, si hay la intención de dar comida o medicinas, en vez de esperar a que el samana haga una petición, puede dejarse claro diciendo, por ejemplo, ‘¿Puedo ofrecerte esta comida?; ‘¿Puedo ofrecerte algo de té?’.  
 
@@ -143,7 +143,7 @@ Si los laicos quieren dar algo a un samana en particular, pero no están seguros
 
 Si se invita a un miembro del Sangha para una visita, por ejemplo para una cita para enseñar, el dinero para cubrir los gastos del viaje se puede dar a un anagarika o persona laica acompañante, quien puede luego comprar los billetes, las bebidas para el viaje o cualquier cosa que el samana pueda necesitar en ese tiempo. Es un entrenamiento bastante bueno para un laico considerar que cosas son necesarias, y ofrecerlas en vez de dinero.  
 
-## **Relaciones**  
+## Relaciones  
 (Los bhikkhus con las mujeres, las siladharas con los hombres)  
 
 Las reglas sobre las relaciones entre los samanas y miembros del sexo opuesto pueden a menudo llevar a malas interpretaciones y por ello vale la pena detallar algunas de las convenciones que rigen esto.  
@@ -160,7 +160,7 @@ Así que para prevenir este tipo de malentendidos –aunque sean sin fundamento-
 
 En general, los samanas también evitarán mantener correspondencia con miembros del sexo opuesto, para otra cosa que no sean asuntos pertenecientes al monasterio, organización de viajes, dar información básica, etc.  
 
-## **Enseñar el Dhamma**  
+## Enseñar el Dhamma  
 
 El samana como maestro del Dhamma debe encontrar la ocasión apropiada para dar las profundas y penetrantes enseñanzas del Buddha a aquellos que deseen escucharlas.  
 
@@ -172,7 +172,7 @@ En cualquier ocasión, siempre es bueno consultar con el orador sobre como fomen
 
 También, al invitar a samanas, por ejemplo para la comida o para enseñar, es normal que la persona que hace la invitación haga también las gestiones para el viaje.  
 
-## **Asuntos menores de etiqueta**  
+## Asuntos menores de etiqueta  
 
 El Vinaya también se extiende al reino de las convenciones y costumbres. Estas observancias no son “reglas”, pero pueden ser vistas como medios hábiles para manifestar un bonito comportamiento. En los monasterios se hace cierto énfasis en estos asuntos como medio para establecer armonía, orden y relaciones agradables dentro de la comunidad. Los laicos pueden estar interesados en aplicar estas convenciones para su propio entrenamiento en sensibilidad, pero es importante para los visitantes notar que estas no están para ser consideradas como un estándar impuesto u obligado. Este tipo de prácticas deberían introducirse tras reflexión, cuando el individuo esté preparado para hacerlas.  
 
@@ -212,7 +212,7 @@ Se recomienda ropa suelta y cómoda. Camisetas, blusas de manga larga, pantalone
 
 El calzado ha de quitarse al entrar en la mayoría de los edificios de los monasterios donde la gente se sienta en el suelo: altares, salas de meditación, salas de reuniones, centros de retiro etc.  
 
-## **Conclusión**  
+## Conclusión  
 
 Estas convenciones han evolucionado como una ayuda a la liberación. Se requiere un esfuerzo sincero tanto para comprometerse con la disciplina uno mismo, como para apoyar a los demás en su compromiso, así como también para aprender como hacerla efectiva para dirigirse hacia la meta. Al introducirnos en una relación basada en nuestra aspiración de cultivar el camino espiritual, es este esfuerzo sincero el que tanto renunciantes como laicos pueden respetar y honrar. Esta pequeña guía ha tratado de presentar algunos de los principales aspectos de la disciplina para facilitar el camino a aquellos interesados en entrar en esta relació, y explorar como influye esto en nuestro mutuo bienestar.  
 

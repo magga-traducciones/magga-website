@@ -8,48 +8,46 @@
 
 {{ .Content }}
 
-
-{{ if not (eq .Title "magga") }}
-
-  {{if not (eq .Title "Primeros pasos") }}
-
     {{ range .Pages }}                {{/* Para secciones "texto" y contenido de libros */}}
       <li>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
     {{ end }}
-
+    
+    {{if (eq .Title "Libros") }}
     {{ range .Sections }}
-      {{if (eq .Title "Textos") }}       {{/* Para páginas de autor (no tienen .Pages) */}}
-        <h2>Textos</h2>
+    <span class="autor"><a href="{{ .Permalink }}">{{ .Title }}</a></span>    
+    {{ end }}<br>
+    {{ end }}
+
+  {{if (eq .Parent.Title "Biblioteca") }}
+    {{ range .Sections }}
+      <h3>{{ .Title }}</h3>      {{/* Para páginas de autor (no tienen .Pages) */}}
+        
         {{ range .Pages }}
-
+          <li>
           <a href="{{ .Permalink }}">{{ .Title }}</a>
-
-        {{ end }}<br>
-      {{ end }}
-
-      {{if (eq .Title "Libros") }}        {{/* Para páginas de autor (no tienen .Pages) */}}
-        <h2>Libros</h2>
-        {{ range .Sections }}
-
-          <a href="{{ .Permalink }}">{{ .Title }}</a><br>
-
+          </li>
         {{ end }}
-      {{ end }}
-      {{if (eq .Parent.Title "Biblioteca") }}     {{/* Para /Biblioteca */}}
-        <span class="autor"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
         {{ range .Sections }}
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    {{ end }}
+  {{ end }}
+
+      {{if (eq .Title "Biblioteca") }}     {{/* Para /Biblioteca */}}
+        {{ range .Sections }}
+          <span class="autor"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+          {{ range .Sections }}
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ end }}<br>
         {{ end }}<br>
       {{ end }}
-                                                    {{/* Para listado de libros en Secciones "libros" */}}
-      {{if not (or (eq .Title "Libros") (eq .Title "Textos") (eq .Parent.Title "Biblioteca"))}}
-        <span class="libro"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
-      {{ end }}
-    {{end}}
-  {{end}}
-{{end}}
+      
+    
+
 
 
 

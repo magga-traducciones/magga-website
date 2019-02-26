@@ -1,10 +1,21 @@
 {{ partial "header.html" . }}
 
-{{if not .IsHome }}
+{{if .IsHome }}
+    {{ .Content }}
+{{ else }}
+
 <h1>{{ .Title | markdownify }}</h1>
-{{ end }}
 
 {{ .Content }}
 
+{{ range .Sections }}
+{{ .Title }}
+{{ range .Pages }}
+<li>
+<a href="{{ .Permalink }}">{{ .Title }}</a>
+</li>
+{{ end }}<br>
+{{ end }}
+{{ end }}
 
 {{ partial "footer.html" . }}

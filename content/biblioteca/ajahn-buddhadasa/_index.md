@@ -9,4 +9,3 @@ pubyear: 2013
 weight: 0
 draft: false
 ---
-{{< figure src="/media/a_buddhadasa.jpg" width="100%">}}

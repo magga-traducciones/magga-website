@@ -12,33 +12,35 @@ draft: false
 ---
 Hay siete pasos básicos:
 
-> 1. Comienza con tres o siete respiraciones largas,  piensa “bud-“ con la inhalación y “–dho” con la exhalación. Mantén la sílaba meditativa mientras dure la respiración.
+1. Comienza con tres o siete respiraciones largas,  piensa “bud-“ con la inhalación y “–dho” con la exhalación. Mantén la sílaba meditativa mientras dure la respiración.
 
-> 2. Se claramente consciente de cada inhalación y exhalación.
+2. Se claramente consciente de cada inhalación y exhalación.
 
-> 3. Observa la respiración mientras entra y sale, notando si es cómoda o incómoda, amplia o restringida, obstruida o fluida, rápida o lenta, corta o larga, cálida o fría. Si la respiración no se siente cómoda ajústala hasta que  lo sea. Por ejemplo, si respirar con la inhalación larga y la exhalación larga resulta incómodo intenta respirar con una inhalación corta y una exhalación corta. En cuanto veas que tu respiración es cómoda deja que esa sensación de comodidad respirando se extienda a distintas partes del cuerpo. Para empezar, inhala la sensación de la respiración por la base del cráneo y déjala fluir descendiendo por la columna. Luego, si eres hombre, deja que se extienda por tu pierna derecha hasta la planta del pie, hasta la punta de los dedos, y hacia el exterior. Inhala la sensación respiratoria por la base del cráneo de nuevo y deja que se extienda por tu columna, bajando por tu pierna izquierda hasta la punta de los dedos y luego hacia el exterior. (Si eres mujer comienza con el lado izquierdo primero, ya que el sistema nervioso de mujeres y hombres es diferente). Luego deja que la respiración se propague desde la base del cráneo bajando por ambos hombros, pasando tus codos y muñecas, hasta la punta de los dedos y hacia el exterior. Deja que la respiración se propague desde la base de la garganta bajando por el nervio central en la parte delantera del cuerpo, pasando por los pulmones y el hígado, bajando hasta la vejiga y el colon. Inhala el aire justo en el centro del pecho y deja que baje hasta tus intestinos. Deja que todas estas sensaciones respiratorias se propaguen para que se conecten y fluyan juntas, y sentirás una sensación de bienestar mejorada significativamente.  
+3. Observa la respiración mientras entra y sale, notando si es cómoda o incómoda, amplia o restringida, obstruida o fluida, rápida o lenta, corta o larga, cálida o fría. Si la respiración no se siente cómoda ajústala hasta que  lo sea. Por ejemplo, si respirar con la inhalación larga y la exhalación larga resulta incómodo intenta respirar con una inhalación corta y una exhalación corta. En cuanto veas que tu respiración es cómoda deja que esa sensación de comodidad respirando se extienda a distintas partes del cuerpo. Para empezar, inhala la sensación de la respiración por la base del cráneo y déjala fluir descendiendo por la columna. Luego, si eres hombre, deja que se extienda por tu pierna derecha hasta la planta del pie, hasta la punta de los dedos, y hacia el exterior. Inhala la sensación respiratoria por la base del cráneo de nuevo y deja que se extienda por tu columna, bajando por tu pierna izquierda hasta la punta de los dedos y luego hacia el exterior. (Si eres mujer comienza con el lado izquierdo primero, ya que el sistema nervioso de mujeres y hombres es diferente). Luego deja que la respiración se propague desde la base del cráneo bajando por ambos hombros, pasando tus codos y muñecas, hasta la punta de los dedos y hacia el exterior. Deja que la respiración se propague desde la base de la garganta bajando por el nervio central en la parte delantera del cuerpo, pasando por los pulmones y el hígado, bajando hasta la vejiga y el colon. Inhala el aire justo en el centro del pecho y deja que baje hasta tus intestinos. Deja que todas estas sensaciones respiratorias se propaguen para que se conecten y fluyan juntas, y sentirás una sensación de bienestar mejorada significativamente.  
 
 
-> 4. Aprende cuatro maneras de ajustar la respiración:  
-> a. inhalación larga y exhalación larga.  
-> b. inhalación larga y exhalación corta.  
-> c. inhalación corta y exhalación larga.  
-> d. inhalación corta y exhalación corta.  
-> Respira como te sea más cómodo. O, incluso mejor, aprende a respirar cómodamente de las cuatro maneras, porque tu condición física y tu respiración están siempre cambiando
+4. Aprende cuatro maneras de ajustar la respiración:  
+    * inhalación larga y exhalación larga.     
+    * inhalación larga y exhalación corta.  
+    * inhalación corta y exhalación larga.  
+    * inhalación corta y exhalación corta.
 
-> 5. Llega a conocer las bases o puntos de enfoque para la mente –los puntos de descanso de la respiración- y centra tu atención en el que te sea más cómodo. Algunas de estas bases son:  
-> a. la punta de la nariz.  
-> b. el centro de la cabeza.  
-> c. el paladar.  
-> d. la base de la garganta.  
-> e. el esternón (la punta del esternón).  
-> f. el ombligo (o un punto justo encima).  
-> Si tienes dolores de cabeza frecuentes o problemas nerviosos no te centres en ningún punto situado por encima de la base de la garganta. Y no intentes forzar la respiración o entrar en trance.  
+    Respira como te sea más cómodo. O, incluso mejor, aprende a respirar cómodamente de las cuatro maneras, porque tu condición física y tu respiración están siempre cambiando
+
+5. Llega a conocer las bases o puntos de enfoque para la mente –los puntos de descanso de la respiración- y centra tu atención en el que te sea más cómodo. Algunas de estas bases son:  
+    * la punta de la nariz.  
+    * el centro de la cabeza.  
+    * el paladar.  
+    * la base de la garganta.  
+    * el esternón (la punta del esternón).  
+    * el ombligo (o un punto justo encima).
+    
+    Si tienes dolores de cabeza frecuentes o problemas nerviosos no te centres en ningún punto situado por encima de la base de la garganta. Y no intentes forzar la respiración o entrar en trance.  
 Respira libremente y con naturalidad. Deja que la mente esté a gusto con la respiración –pero no hasta el punto en que se disperse.  
 
-> 6. Extiende tu consciencia –tu sensación de sentir conscientemente- por todo el cuerpo.  
+6. Extiende tu consciencia –tu sensación de sentir conscientemente- por todo el cuerpo.  
 
-> 7. Une las sensaciones respiratorias del cuerpo, dejándolas fluir juntas cómodamente, manteniendo tu atención tan abarcativa como sea posible. Una vez que eres completamente consciente de los aspectos de la respiración que ya conoces en tu cuerpo llegarás a conocer muchos otros aspectos también. La respiración, por su naturaleza, tiene muchas facetas: sensaciones respiratorias fluyendo en los nervios, otras fluyendo alrededor y sobre los nervios, otras propagándose de los nervios a cada poro. Las sensaciones respiratorias beneficiosas y dañinas están mezcladas por su propia naturaleza.  
+7. Une las sensaciones respiratorias del cuerpo, dejándolas fluir juntas cómodamente, manteniendo tu atención tan abarcativa como sea posible. Una vez que eres completamente consciente de los aspectos de la respiración que ya conoces en tu cuerpo llegarás a conocer muchos otros aspectos también. La respiración, por su naturaleza, tiene muchas facetas: sensaciones respiratorias fluyendo en los nervios, otras fluyendo alrededor y sobre los nervios, otras propagándose de los nervios a cada poro. Las sensaciones respiratorias beneficiosas y dañinas están mezcladas por su propia naturaleza.  
 
 Resumiendo: (a) para mejorar la energía ya existente en cada parte de tu cuerpo, para que puedas lidiar con cosas como la enfermedad y el dolor; y (b) para que puedas aclarar el conocimiento que ya posees, para que este pueda llegar a ser la base para las habilidades que llevan a la liberación y pureza del corazón –deberías tener siempre estos siete pasos en mente,  porque son absolutamente básicos para cada aspecto de la meditación con la respiración. Cuando los hayas dominado, habrás abierto una carretera principal. Y respecto a las carreteras secundarias –los incidentes de la meditación con la respiración- hay muchos de ellos, pero en realidad no son importantes. Estarás perfectamente a salvo si te adhieres a estos siete pasos y los practicas tanto como te sea posible.  
 

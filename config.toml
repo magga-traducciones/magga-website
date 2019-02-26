@@ -10,6 +10,9 @@ footnotereturnlinkcontents = "↩"
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
     note = "/note/:year/:month/:day/:slug/"
+    biblioteca = "/:sections/:title/"
+    cantos = "/:sections/:title/"
+    primeros-pasos = "/:sections/:title/"
 
 [[menu.main]]
     name = "Inicio"
@@ -24,12 +27,12 @@ footnotereturnlinkcontents = "↩"
     url = "/primeros-pasos/"
     weight = 3
 [[menu.main]]
+    name = "cantos"
+    url = "/cantos/"
+    weight = 5
+[[menu.main]]
     name = "magga traducciones"
     url = "/magga-traducciones/"
-    weight = 4
-[[menu.main]]
-    name = "suscribirse"
-    url = "/suscribirse/"
     weight = 5
 
 [params]

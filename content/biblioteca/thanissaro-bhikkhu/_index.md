@@ -9,4 +9,3 @@ pubyear: 2019
 weight: 0
 draft: false
 ---
-{{< figure src="/media/a_thanissaro.jpg" width="70%">}}
