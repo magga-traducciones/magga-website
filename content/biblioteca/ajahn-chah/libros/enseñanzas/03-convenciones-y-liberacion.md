@@ -11,7 +11,7 @@ weight: 3
 draft: false
 ---
 
-> *Nota: Una traducción diferente de esta charla ha sido publicada en otro sitio bajo el título de: "*Suposiciones y Liberación*" por Ajahn Thanissaro.*   
+> *Nota: Una traducción diferente de esta charla ha sido publicada en otro sitio bajo el título de "Suposiciones y Liberación" por Ajahn Thanissaro.*   
 
 ---  
 
