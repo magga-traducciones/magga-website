@@ -77,6 +77,6 @@ Ese orgullo de las opiniones personales, esas discusiones, no tienen fin. Para d
 
 [^1]: Tocar la cabeza de alguien en Tailandia es considerado generalmente un insulto.
 
-[^2]: Se considera auspicioso en Tailandia que el toque a uno la cabeza un monje respetado. 
+[^2]: Se considera auspicioso en Tailandia que le toque a uno la cabeza un monje respetado. 
 
 [^3]: Los cuatro soportes son los mantos, la comida, el alojamiento y las medicinas.
