@@ -8,7 +8,7 @@ En está página se trata principalmente con la meditación budista Theravada, e
 
 Todos los textos que encontrarás aquí son traducciones propias no profesionales. Nuestro conocimiento de inglés y de los temas tratados es limitado. Este trabajo se realiza para uso personal, compartiéndolo por si a alguien le es de utilidad esperando que se puedan perdonar los posibles errores o malinterpretaciones que pueda haber.  
 
-En caso querer utilizar los textos consulta la licencia particular de cada página.
+En caso de querer utilizar los textos consulta la licencia particular de cada página.
 
 Cualquier corrección, sugerencia o comentario será bienvenido y apreciado. Puedes usar la dirección <contacto@magga.es>, o por mensaje privado en [twitter](http://twitter.com/magga_es).  
 
