@@ -8,8 +8,8 @@
 
 {{ .Content }}
 
-    {{if and (ne .Title "Biblioteca") (ne  .Title "Libros") (ne .Parent.Title "Biblioteca")}}  {{/* Para secciones "texto" y contenido de libros */}} 
-    {{ range .Pages }}                
+   {{if and (ne .Title "Biblioteca") (ne .Title "Libros") (ne .Parent.Title "Biblioteca")}}  {{/* Para secciones "texto" y contenido de libros */}}   
+    {{ range .Pages }}                {{/* Para secciones "texto" y contenido de libros */}}
       <li>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
@@ -24,7 +24,8 @@
 
   {{if (eq .Parent.Title "Biblioteca") }}
     {{ range .Sections }}
-      <h3>{{ .Title }}</h3>      {{/* Para páginas de autor (no tienen .Pages) */}
+      <h3>{{ .Title }}</h3>      {{/* Para páginas de autor (no tienen .Pages) */}}
+      
         {{ range .Sections }}
         <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -42,9 +43,6 @@
         {{ end }}<br>
       {{ end }}
       
-    
-
-
 
 
 {{ partial "footer.html" . }}
