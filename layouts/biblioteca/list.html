@@ -24,13 +24,7 @@
 
   {{if (eq .Parent.Title "Biblioteca") }}
     {{ range .Sections }}
-      <h3>{{ .Title }}</h3>      {{/* Para páginas de autor (no tienen .Pages) */}}
-        
-        {{ range .Pages }}
-          <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
+      <h3>{{ .Title }}</h3>      {{/* Para páginas de autor (no tienen .Pages) */}
         {{ range .Sections }}
         <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
