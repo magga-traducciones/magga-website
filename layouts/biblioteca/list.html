@@ -8,7 +8,7 @@
 
 {{ .Content }}
 
-    {{if (ne .Title "Biblioteca") }}  {{/* Para secciones "texto" y contenido de libros */}}   
+    {{if and (ne .Title "Biblioteca") (ne  .Title "Libros") }}  {{/* Para secciones "texto" y contenido de libros */}} 
     {{ range .Pages }}                
       <li>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
