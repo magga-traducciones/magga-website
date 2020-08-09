@@ -8,10 +8,12 @@
 
 {{ .Content }}
 
-    {{ range .Pages }}                {{/* Para secciones "texto" y contenido de libros */}}
+    {{if (ne .Title "Biblioteca") }}  {{/* Para secciones "texto" y contenido de libros */}}   
+    {{ range .Pages }}                
       <li>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
+    {{ end }}
     {{ end }}
     
     {{if (eq .Title "Libros") }}
