@@ -8,6 +8,4 @@ Navegando por la página podrás leer textos sobre budismo, meditación, y temas
 
 En la sección [cantos](/cantos) encontrás algunas de las recitaciones mas comunes para usarlos en tu práctica individual, en diversos formatos, incluido en versión karaoke.
 
-Si quieres recibir las actualizaciones por correo o por RSS puedes hacerlo en [Suscribirse](/suscribirse).  
-
 Disfruta del camino.
